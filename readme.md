@@ -1,12 +1,14 @@
+REPOSITORY IS NOT WORKING AT THE MOMENT. SORRY) 
+
 # Umee node monitoring tool
 
-This project is developed for the UMEE community. The project was inspired by Solana community monitoring from [Stakeconomy](https://github.com/stakeconomy/solanamonitoring).
+This project is developed for the UMEE community.
 
-To monitor you node your should have installed and configured:
+To monitor your node you should have installed and configured:
 On node server:
 * [UMEE node](https://docs.umee.cc/umee/) which should be configured (correct moniker, validator key, network ports setup)
 * [Telegraf agent](https://www.influxdata.com/time-series-platform/telegraf/)
-* [mon_umee](https://github.com/shurinov/mon_umee) scripts set
+* [mon_umee](https://github.com/LordOfElectee/mon_umee) scripts set
 
 On monitoring server:
 * [InfluxDB](https://www.influxdata.com/products/influxdb/)
