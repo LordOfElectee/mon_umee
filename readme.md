@@ -14,7 +14,7 @@ On monitoring server:
 * [InfluxDB](https://www.influxdata.com/products/influxdb/)
 * [Grafana](https://grafana.com/)
 
-It is possible to install the software on the node server instance. Hovewer, it is better to move it to standalone instance with opened web access to watch it from browser at any location.
+It is possible to install the software (Telegraf+InfluxDB+Grafana) on the node server. However, it is better to move InfluxDB and Grafana to standalone instance with web access from browser. It will help to get information about your node in any case.
 
 ## The following steps will guide you through the setup process:
 
