@@ -92,17 +92,6 @@ echo $port
 return $(( $port ))
 }
 
-function showNode75Logo {
-echo -e "$GREEN _   _           _     ______ _____ 
-| \ | |         | |   |____  | ____|
-|  \| | ___   __| | ___   / /| |__  
-| . \` |/ _ \ / _\` |/ _ \ / / |___ \ 
-| |\  | (_) | (_| |  __// /   ___) |
-|_| \_|\___/ \__,_|\___/_/   |____/ $ST"
-}
-
-showNode75Logo
-sleep 1s
 user=$(whoami)
 echo -e "\nThis script will install UMEE monitoring tools on your server for user $GREEN${user}$ST"
 echo -ne "Continue? (y/n):"
