@@ -1,5 +1,3 @@
-REPOSITORY IS NOT WORKING AT THE MOMENT. SORRY) 
-
 # Umee node monitoring tool
 
 This project is developed for the UMEE community.
